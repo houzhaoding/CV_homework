@@ -2,6 +2,8 @@
 功能：基本图像处理
 时间：2019.07.06
 作者：houzhaoding
+版本：1.0
+
 """
 import cv2
 import random
